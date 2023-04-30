@@ -36,6 +36,13 @@ body{
     width: 120px;
 }
 
+/* REAÇÕES DE BOTÕES */
+
+.botM:hover {
+    background-color: var(--Caixatab);
+    transition: 0.3s;
+}
+
 /* Botões junto com título */
 .tituloBot {
     justify-content: space-between;
@@ -61,6 +68,12 @@ body{
     height: 24px;
     margin: 0px 41px;
     padding: 10px;
+}
+
+/* REAÇÕES DE BOTÕES */
+.botTit:hover{
+    background-color: #d1d1d1;
+    transition: 0.3s;
 }
 
 /* TABELA */
