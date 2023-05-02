@@ -12,12 +12,7 @@
   <main>
       
       
-        <!-- MENU DE OUTRAS TABELAS -->
-        <div class="MenuTab">
-            <a href="" class="botM">Categoria</a>
-            <a href="" class="botM">Garçom</a>
-            <a href="" class="botM">Contas</a>
-        </div>
+
         <!-- Os botões que ficam dentro de título -->
         <div class="tituloBot">
             <a href="" class="botTit">Voltar</a>
